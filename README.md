@@ -8,7 +8,7 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![1](ponto-verm.png) Relatório
-- O relatório do projeto, com objetivo, perguntas, modelagem, catálogo de dados, informações sobre carga e coleta e análises estão nno [pdf](Relatorio MVP - Engenharia de Dados.pdf), que consta também no repositório
+- O relatório do projeto, com objetivo, perguntas, modelagem, catálogo de dados, informações sobre carga e coleta e análises estão no [pdf](https://github.com/claradelboni/Puc-Rio-MVP-Olist/blob/main/Relatorio%20MVP%20-%20Engenharia%20de%20Dados.pdf), que consta também no repositório.
 
 
 ## ![2](ponto-verde.png) Acesso aos Notebooks no GibHub
