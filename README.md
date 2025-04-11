@@ -12,10 +12,10 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![2](ponto-verde.png) Acesso aos Notebooks
-- Link para acesso direto ao Notebook 1 - Camadas Bronze e Silver [aqui](MVP - Disciplina_ Sprint_ Engenharia de Dados.ipynb)
-- Link para acesso direto ao Notebook 2 - Camada Gold [aqui](parte 2 - camada Gold) no Github(MVP - Parte 2 - Disciplina_ Sprint_ Engenharia de Dados.ipynb)
+- Link para acesso direto ao Notebook 1 - Camadas Bronze e Silver [aqui](MVP_Disciplina_ Sprint_ Engenharia de Dados.ipynb)
+- Link para acesso direto ao Notebook 2 - Camada Gold [aqui](MVP_Parte_2_Disciplina_ Sprint_ Engenharia de Dados.ipynb)
 
 
 ## ![3](ponto-azul.png) Acesso aos Notebooks publicados pelo Databricks
-- Link direto para acesso do Notebook [aqui](parte 1 - camada Bronze e Silver) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/2485717882172994/126587948245777/latest.html)
+- Link direto para acesso do Notebook [aqui](parte 1 - camada Bronze e Silver) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/2485717882172994/126587948245777/latest.html))
 - Link direto para acesso do Notebook [aqui](parte 2 - camada Gold) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/1929157071584408/126587948245777/latest.html))
