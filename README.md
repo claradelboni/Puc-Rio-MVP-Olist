@@ -17,5 +17,5 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![3](icons8-dot-50.png) Acesso aos Notebooks publicados pelo Databricks
-- Link direto para acesso do Notebook [aqui](parte 1 - camada Bronze e Silver) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/2485717882172994/126587948245777/latest.html))
+- Link direto para acesso do Notebook [aqui](parte 1 - camada Bronze e Silver) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/2485717882172994/126587948245777/latest.html)
 - Link direto para acesso do Notebook [aqui](parte 2 - camada Gold) publicado a partir do Databricks([URL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2039929868144028/1929157071584408/126587948245777/latest.html))
