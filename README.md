@@ -8,7 +8,7 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![1](icons8-dot-50.png) Relatório
-- O relatório do projeto, com objetivo, perguntas, modelagem, catálogo de dados, informações sobre carga e coleta e análises estão nno [pdf](), que consta também no repositório
+- O relatório do projeto, com objetivo, perguntas, modelagem, catálogo de dados, informações sobre carga e coleta e análises estão nno [pdf](Relatorio MVP - Engenharia de Dados.pdf), que consta também no repositório
 
 
 ## ![2](icons8-dot-50.png) Acesso aos Notebooks
