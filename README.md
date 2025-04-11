@@ -12,8 +12,8 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![2](ponto-verde.png) Acesso aos Notebooks
-- Link para acesso direto ao Notebook 1 - Camadas Bronze e Silver [aqui](MVP_Disciplina_ Sprint_ Engenharia de Dados.ipynb)
-- Link para acesso direto ao Notebook 2 - Camada Gold [aqui](MVP_Parte_2_Disciplina_ Sprint_ Engenharia de Dados.ipynb)
+- Link para acesso direto ao Notebook 1 - Camadas Bronze e Silver [aqui]([MVP_Disciplina_ Sprint_ Engenharia de Dados.ipynb](https://github.com/claradelboni/Puc-Rio-MVP-Olist/blob/main/MVP_Disciplina_%20Sprint_%20Engenharia%20de%20Dados.ipynb))
+- Link para acesso direto ao Notebook 2 - Camada Gold [aqui]([MVP_Parte_2_Disciplina_ Sprint_ Engenharia de Dados.ipynb](https://github.com/claradelboni/Puc-Rio-MVP-Olist/blob/main/MVP_Parte_2_Disciplina_%20Sprint_%20Engenharia%20de%20Dados.ipynb))
 
 
 ## ![3](ponto-azul.png) Acesso aos Notebooks publicados pelo Databricks
