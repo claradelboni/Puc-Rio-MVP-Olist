@@ -12,8 +12,8 @@ O objetivo deste MVP é analisar o conjunto de dados publicado pela Olist, plata
 
 
 ## ![2](icons8-dot-50.png) Acesso aos Notebooks
-- Link para acesso direto ao Notebook [aqui](parte 1 - camada Bronze e Silver) no Github()
-- Link para acesso direto ao Notebook [aqui](parte 2 - camada Gold) no Github()
+- Link para acesso direto ao Notebook 1 - Camadas Bronze e Silver [aqui](MVP - Disciplina_ Sprint_ Engenharia de Dados.ipynb)
+- Link para acesso direto ao Notebook 2 - Camada Gold [aqui](parte 2 - camada Gold) no Github(MVP - Parte 2 - Disciplina_ Sprint_ Engenharia de Dados.ipynb)
 
 
 ## ![3](icons8-dot-50.png) Acesso aos Notebooks publicados pelo Databricks
